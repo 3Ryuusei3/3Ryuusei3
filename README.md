@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Manuflix](https://github.com/3Ryuusei3/FM-Entertainment-Web-App)
 
-- 🌱 I’m currently learning **React advance techniques**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, css**
 
