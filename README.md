@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, css**
+- 💬 Ask me about **React, CSS**
 
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/manuel-atance/)
 
