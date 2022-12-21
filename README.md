@@ -4,7 +4,7 @@
 
 <p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ryuusei3&show_icons=true&locale=en&layout=compact" alt="3ryuusei3" /></p>
 
-- 🔭 I’m currently working on [Manuflix](https://github.com/3Ryuusei3/FM-Entertainment-Web-App)
+- 🔭 I’m currently working on [slake.](https://github.com/3Ryuusei3/slake._client)
 
 - 🌱 I’m currently learning **Next.js**
 
