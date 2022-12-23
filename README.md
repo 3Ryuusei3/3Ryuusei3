@@ -14,9 +14,11 @@
 
 - 🌐 I speak **Spanish**, **English** and **Japanese**
 
-- 📫 How to reach me **atance3@hotmail.com**
+- 📫 Reach me at **atance3@hotmail.com**
 
-- 🃏 Fun fact **Currently working on releasing my [card game!](https://maldicionesthegame.com/)**
+- 💞️ I’m looking to collaborate on open source project
+
+- 🃏 Fun fact! **Currently working on releasing my [card game!](https://maldicionesthegame.com/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
